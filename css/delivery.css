@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.requirements div {
+    display: inline-block;
+
+}
+
+
+.deliveried div {
+    display: inline-block;
+}
+
+.time div {
+    display: inline-block;
+
+}
+
+.subbox div {
+    display: inline-block;
+
+}
